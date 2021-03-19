@@ -9,9 +9,12 @@ Of all riders using citibike, men utilize the service more than women, 2 to 1.
 ### Trips by Weekday per Hour
 ![Trips_by_Weekday_perHour](https://user-images.githubusercontent.com/75647359/111815364-92e0f900-88a9-11eb-86c7-35c91f86313b.png)
 
+The bikes are typically used for commutes on weekdays while afternoon usage peaks during weekends. 
+
 ### Trips by Gender by Weekday per Hour
 ![TripsbyGender_WeekdayperHour](https://user-images.githubusercontent.com/75647359/111815574-d471a400-88a9-11eb-8f0b-e5bf85627eb0.png)
-Both Men and Women have a peak usage time of approximately 10 minutes. Men typically stay on the bike longer than women. 
+
+Both men and women use the citibikes during commuting hours. 
 
 ### Checkout Times for Users 
 ![CheckoutTimesforUsers](https://user-images.githubusercontent.com/75647359/111815639-ea7f6480-88a9-11eb-91ad-07e391cd4d1b.png)
@@ -26,7 +29,11 @@ Both Men and Women have a peak usage time of approximately 10 minutes. Men typic
 ### User Trips by Gender
 ![User_Trips_byGender_byWeekday](https://user-images.githubusercontent.com/75647359/111815791-139ff500-88aa-11eb-9623-341db24cc763.png)
 
+Subscribers typically use the citibike service during the week while other customers use the citibikes on the weekends. 
+
 ### Top Sharing Locations
 ![TopSharingLocations](https://user-images.githubusercontent.com/75647359/111815501-c2900100-88a9-11eb-96a7-a9ba593238db.png)
+
+The top sharing locations are close together, many people close proximity to central locations are more likely to use this service. 
 
 ## Summary 
