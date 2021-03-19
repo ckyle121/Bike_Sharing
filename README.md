@@ -1,5 +1,7 @@
 # NYC Citibike Share
 ## Overview of Project
+This project seeks to use tableau to vizualize bike sharing data. When bringing a bike share program to a new city, taking into affect the different coutnerfactuals of each city in order to maximize the profit and utilization when bringing bike share to a new city. By analyzing data from NYC citi bike, investors can get a sense of who and where the bike needs to be accesible to. 
+
 ## Results
 ### Gender Breakdown
 ![Gender_Breakdown](https://user-images.githubusercontent.com/75647359/111815440-ab511380-88a9-11eb-8589-4e00160ef59b.png)
@@ -37,3 +39,4 @@ Subscribers typically use the citibike service during the week while other custo
 The top sharing locations are close together, many people close proximity to central locations are more likely to use this service. 
 
 ## Summary 
+It appears as though during the weekday, many subscribers will use the bike share program for their daily commute. During the weekend, however, other customers seem to take advantage of the program for various tourist commutes. Men seem to take advantage of bike share program more than women. Other data that could be examined is the top sharing locations and top ending locations against various types industry buildings to see where commuters are utilizing bike share most. For example, is an ice cream shop employee more likely to use bike share than a banker? Another note to look at would be the distance traveled for each commute. We have analyzed the time for each commute, but the distance traveled may give us an indication when setting up new bike shares in other cities. 
