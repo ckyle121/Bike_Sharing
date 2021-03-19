@@ -1,6 +1,6 @@
 # NYC Citibike Share
 ## Overview of Project
-This project seeks to use tableau to vizualize bike sharing data. When bringing a bike share program to a new city, taking into affect the different coutnerfactuals of each city in order to maximize the profit and utilization when bringing bike share to a new city. By analyzing data from NYC citi bike, investors can get a sense of who and where the bike needs to be accesible to. 
+This project seeks to use tableau to vizualize bike sharing data. Investors are seeking to bring a bike share program to a new city, znd by doing so looking at the data available from a bike share program in NYC. By analyzing data from NYC citi bike, investors can get a sense of how to set up a bike share program in their own city while taking into concern the different coutnerfactuals of New York City. 
 
 ## Results
 ### Gender Breakdown
